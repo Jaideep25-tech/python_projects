@@ -3,5 +3,5 @@ import png
 from pyqrcode import QRCode
 link=input("ENTER LINK :")
 download=pyqrcode.create(link)
-download.png("linked in.png",scale=4)
+download.png("(//name of the qr code u want).png",scale=4)
 print("Downloaded..")

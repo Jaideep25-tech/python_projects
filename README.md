@@ -27,5 +27,7 @@
 | 19. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/video%20to%20audio%20converter">video to audio converter</a> |
 | 20. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/qr%20code%20generator">qr code generatoro</a>                   |
 | 21. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/yt%20video%20downloader">yt video downloader</a> |
+| 22. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Check%20Internet%20Speed">Check Internet Speed</a> |
+| 23. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Phone%20number%20Details">Phone number Details</a> |
 
 ![](https://github.com/Jaideep25-tech/Git-and-GitHub/blob/main/assets/thank%20you%20banner.png)

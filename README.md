@@ -32,6 +32,6 @@
 | 24. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Cancer%20Detector">cancer detector</a> |
 | 25. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/FaceRecognitionProject_WITH_Attendance_Feature">FaceRecognitionProject_WITH_Attendance_Feature</a> |
 | 26. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/FaceRecognitionSystem">FaceRecognitionSystem</a> |
-| 26. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/text-to-ascii">FaceRecognitionSystem</a> |
+| 26. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/text-to-ascii">Text to ASCII Generator</a> |
 
 ![](https://github.com/Jaideep25-tech/Git-and-GitHub/blob/main/assets/thank%20you%20banner.png)

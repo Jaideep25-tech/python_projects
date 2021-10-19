@@ -29,5 +29,8 @@
 | 21. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/yt%20video%20downloader">yt video downloader</a> |
 | 22. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Check%20Internet%20Speed">Check Internet Speed</a> |
 | 23. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Phone%20number%20Details">Phone number Details</a> |
+| 24. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Cancer%20Detector">cancer detector</a> |
+| 25. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/FaceRecognitionProject_WITH_Attendance_Feature">FaceRecognitionProject_WITH_Attendance_Feature</a> |
+| 26. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/FaceRecognitionSystem">FaceRecognitionSystem</a> |
 
 ![](https://github.com/Jaideep25-tech/Git-and-GitHub/blob/main/assets/thank%20you%20banner.png)

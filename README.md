@@ -33,5 +33,14 @@
 | 25. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/FaceRecognitionProject_WITH_Attendance_Feature">FaceRecognitionProject_WITH_Attendance_Feature</a> |
 | 26. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/FaceRecognitionSystem">FaceRecognitionSystem</a> |
 | 27. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/text-to-ascii">Text to ASCII Generator</a> |
+| 28. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Morse%20code%20converter">Morse Code Converter </a> |
+| 29. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Hand%20Tracking/Handtracking">Hand Tracking </a> |
+| 30. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/Photo-Collage-For-Instagram">Photo Collage for insta </a> |
+| 31. | <a href= "https://github.com/Jaideep25-tech/python_projects/tree/main/Turtle%20Crossing%20game"> Turtle Crossing game </a> |
+| 32. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/assets"> Assets </a> |
+| 33. | <a href="https://github.com/Jaideep25-tech/python_projects/tree/main/digital%20clock"> Digital Clock </a> |
+
+
+ 
 
 ![](https://github.com/Jaideep25-tech/Git-and-GitHub/blob/main/assets/thank%20you%20banner.png)
